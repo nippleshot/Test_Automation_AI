@@ -231,7 +231,7 @@ class Discriminator(nn.Module):
 
 | 预测为‘8’                                                    |
 | ------------------------------------------------------------ |
-| <img src="./report_picture/random1_mnist/random1_mnist_prediction_8_200dpi.png" style="zoom: 20%;" /> |
+| <img src="./report_picture/random1_mnist/random1_mnist_prediction_8_200dpi.png" style="zoom: 10%;" /> |
 
 【2】  random2_mnist ： 没有预测为‘7’的测试数据，该模型偏向于预测为‘0’，‘4’，‘8’
 
